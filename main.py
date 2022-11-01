@@ -1,1 +1,1 @@
-print("Hello Irhash :D")
+print('Hello Irhash :D')
